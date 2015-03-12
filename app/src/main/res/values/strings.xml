@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">TadoRadarApp</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- GENERAL -->
+    <string name="multi_user"><xliff:g id="amount" example="3">%1$s</xliff:g> user</string>
+    <string name="degree"><xliff:g id="amount" example="20">%1$s</xliff:g>°C</string>
+
+</resources>
